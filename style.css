@@ -1,0 +1,78 @@
+body{
+    
+    height:100vh;
+    border: 5px double black;
+  
+}
+
+
+
+.maincl{
+    text-align: center;
+   
+     margin: 10%;
+    
+}
+
+
+
+
+header{
+    text-align: center;
+}
+
+
+
+
+ul{
+    text-align: center;
+    tex
+
+    margin: 50px;
+    padding: 10px;
+
+    list-style-type: none;
+    border:2px solid black;
+       
+    
+    border-bottom: 1px solid;
+    border-left: hidden;
+    border-right: hidden;
+    
+   
+
+   
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+
+
+#menu li{
+
+    
+    text-transform: uppercase;
+    padding: 50px;
+    font-size: smaller;
+  
+    display: inline;
+}
+
+#pianoimg
+{
+    width: 95%;
+    margin: 0;
+   
+}
+p{
+    font-size: medium;
+    
+}
+
+
+
